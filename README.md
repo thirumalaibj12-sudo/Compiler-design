@@ -6,7 +6,7 @@ This project implements 6 compiler design topics:
 
 Lexical Analyzer
 First and Follow Sets
-Left Recursion Removal
+Left Recursion Removal 
 NFA to DFA Conversion
 Parsing Table Construction
 Regex to NFA Conversion
