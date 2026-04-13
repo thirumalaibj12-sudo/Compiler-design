@@ -1,0 +1,4 @@
+First(S) = {aB, b}
+Follow(S) = {$}
+First(B) = {c, dS}
+Follow(B) = {}
